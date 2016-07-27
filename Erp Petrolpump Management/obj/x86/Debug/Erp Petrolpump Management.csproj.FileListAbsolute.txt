@@ -1,0 +1,71 @@
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.pdb
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Form1.resources
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Properties.Resources.resources
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.exe
+c:\users\syed inkisar ahmed\documents\visual studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.pdb
+C:\Users\Syed Inkisar Ahmed\Documents\Visual Studio 2010\Projects\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Wellcome_Page.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.exe
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.pdb
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.pdb
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Form1.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Properties.Resources.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Wellcome_Page.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Insertion.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.VeiwAll.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.SearchEmployDetail.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.UpdateRecordsPage.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Deleterecordspage.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Database1.accdb
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe.config
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteForm.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteSalling.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Help.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Events.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteEvents.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.BossVeiw.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.PrintPageForm.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteCngRecord.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteDeiselRec.resources
+C:\Users\Syed Inkisar Ahmed\Desktop\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.FaxPageForOrdered.resources
+I:\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe.config
+I:\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.exe
+I:\New folder (3)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.pdb
+C:\Users\Farrukh Malik\Desktop\New folder (2)\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe.config
+C:\Users\Farrukh Malik\Desktop\New folder (2)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.exe
+C:\Users\Farrukh Malik\Desktop\New folder (2)\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.pdb
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe.config
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.exe
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.pdb
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Database1.accdb
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.pdb
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.BossVeiw.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteCngRecord.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteDeiselRec.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteEvents.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteForm.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Deleterecordspage.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.DeleteSalling.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Events.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.FaxPageForOrdered.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Form1.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Help.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Insertion.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.PrintPageForm.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Properties.Resources.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.SearchEmployDetail.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.UpdateRecordsPage.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.VeiwAll.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp_Petrolpump_Management.Wellcome_Page.resources
+C:\Users\Farrukh Malik\Desktop\bakhtiyar erp\Erp Petrolpump Management\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.csproj.GenerateResource.Cache
+C:\Users\Farrukh Malik\Desktop\Petrol pump ERP.1\Erp Petrolpump Management\bin\Debug\Erp Petrolpump Management.exe.config
+C:\Users\Farrukh Malik\Desktop\Petrol pump ERP.1\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.exe
+C:\Users\Farrukh Malik\Desktop\Petrol pump ERP.1\Erp Petrolpump Management\obj\x86\Debug\Erp Petrolpump Management.pdb
